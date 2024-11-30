@@ -15,7 +15,7 @@
 
 - **Al ejecutar la herramienta y pasandole por ejemplo mi IP obtendremos de forma rápida ante que sistema operativo me estoy enfrentando.**
 
-![[Pasted image 20241130135911.webp|698]]
+![image](https://github.com/user-attachments/assets/eb0fc838-ac9b-489c-ace5-b3046dcbfbed)
 
 **Agradecimiento especial a S4vitar, que fue de quien me insipire inicialmente para esta herramienta :)**
 
