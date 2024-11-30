@@ -36,7 +36,7 @@ if [[ "$IpAdress" ]]; then
     if [[ $ttl -le 64 ]] && [[ $ttl -ge 0 ]]; then 
         echo -e "\n${purpleColour}$IpAdress${endColour}${grayColour} (ttl -> $ttl):${endColour} ${greenColour}Linux${endColour}\n"
         tput cnorm
-    elif [[ $ttl -gt 65 ]] && [[ $ttl -le 128 ]]; then
+    elif [[ $ttl -ge 65 ]] && [[ $ttl -le 128 ]]; then
      echo -e "\n${purpleColour}$IpAdress${endColour}${grayColour} (ttl -> $ttl):${endColour} ${greenColour}Windows${endColour}\n"
      tput cnorm 
     fi 
