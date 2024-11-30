@@ -2,7 +2,7 @@
 
 ### <span style="color:rgb(238, 83, 83)">whichSystem.sh</span>
 
-- **Herramienta diseñada para verificar el sistema operativo de una forma menos ruidosa y agresiva que nmap**
+- **Herramienta diseñada para verificar el sistema operativo al que pertenece una dirección IP, en base a su ttl**
 - **Originalmente creado por s4vitar en python, es una inspiración a la herramienta hecha por el.**
 
 ## <span style="color:rgb(238, 83, 83)">¿Cómo usar?</span>
