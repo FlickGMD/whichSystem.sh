@@ -19,5 +19,5 @@
 
 **Agradecimiento especial a S4vitar, que fue de quien me insipire inicialmente para esta herramienta :)**
 
-**Enlace de la herramienta original, hecha en python: https://pastebin.com/HmBcu7j2**
-**Enlace al canal de s4vitar: https://www.youtube.com/@s4vitar**
+- **Enlace de la herramienta original, hecha en python: https://pastebin.com/HmBcu7j2**
+- **Enlace al canal de s4vitar: https://www.youtube.com/@s4vitar**
