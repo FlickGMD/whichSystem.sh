@@ -9,7 +9,9 @@
 
 - **Al ejecutar la herramienta sin parametros, obtendremos un panel de ayuda muy simple el cual nos dira que ejecutemos el script y le pasemos una dirección IP. (No acepta caracteres alfabéticos)**
 
-![[Pasted image 20241130135302.webp|876]]
+![image](https://github.com/user-attachments/assets/31b1b1cd-43f2-4baf-9fbc-9bee5d3a9263)
+
+
 
 ## <span style="color:rgb(238, 83, 83)">Prueba de concepto</span>
 
