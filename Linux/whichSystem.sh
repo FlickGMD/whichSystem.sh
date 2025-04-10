@@ -2,8 +2,8 @@
 source ./Colors.sh
 
 if [[ -z "$1" ]]; then
-  echo -e "\n[+] Usage: $0 127.0.0.1\n"
-  return 1
+  echo -e "\n${bright_cyan}[+]${bright_white} Usage:${bright_blue} $0 ${bright_white}127.0.0.1${end}\n"
+  exit 1
 fi
 
 function ctrl_c(){
